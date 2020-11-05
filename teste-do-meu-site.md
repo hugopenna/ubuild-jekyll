@@ -15,5 +15,9 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: ''
+- template: signup-bar
+  block: cta-bar
+  email_recipient: forestry@hugopenna.com
+  content: ''
 
 ---
