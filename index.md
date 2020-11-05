@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
+  headline: Receba as melhores dicas para abrir e gerenciar a sua PJ, sem mistérios.
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
