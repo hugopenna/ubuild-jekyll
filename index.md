@@ -43,7 +43,7 @@ page_sections:
     url: "/news"
     button_text: Inscreva-se
   image:
-    image: "/uploads/2020/11/05/undraw_informed_decision_p2lh.svg"
+    image: "/uploads/2020/11/05/undraw_reviewed_docs_re_9lmr.svg"
     alt_text: Product Shot
   background_image: ''
 - template: content-feature
