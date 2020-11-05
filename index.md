@@ -29,6 +29,10 @@ page_sections:
   headline: As melhores dicas para abrir e gerenciar a sua PJ!
   slug: PJ101
   content: Tenha segurança para abrir e gerenciar seu CNPJ.
+- template: signup-bar
+  block: cta-bar
+  email_recipient: forestry@hugopenna.com
+  content: ''
 - template: hero-banner-w-image
   block: hero-2
   slug: features
