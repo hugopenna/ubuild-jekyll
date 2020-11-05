@@ -20,6 +20,15 @@ page_sections:
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/2020/11/05/undraw_informed_decision_p2lh.svg"
+    alt_text: ''
+  headline: As melhores dicas para abrir e gerenciar a sua PJ!
+  slug: PJ101
+  content: Tenha segurança para abrir e gerenciar seu CNPJ.
 - template: hero-banner-w-image
   block: hero-2
   slug: features
@@ -76,15 +85,6 @@ page_sections:
     this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
     article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
     Blocks and preview them as you go along.</p></li></ol>
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  media:
-    image: "/uploads/2020/11/05/undraw_informed_decision_p2lh.svg"
-    alt_text: ''
-  headline: As melhores dicas para abrir e gerenciar a sua PJ!
-  slug: PJ101
-  content: Tenha segurança para abrir e gerenciar seu CNPJ.
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
