@@ -27,8 +27,8 @@ page_sections:
   content: Tenha segurança para abrir e gerenciar seu CNPJ.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: "/news"
+    button_text: Inscreva-se
   image:
     image: "/uploads/2020/11/05/undraw_informed_decision_p2lh.svg"
     alt_text: Product Shot
