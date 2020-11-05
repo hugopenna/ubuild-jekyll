@@ -24,8 +24,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: As melhores dicas para abrir e gerenciar a sua PJ!
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: Tenha segurança para abrir e gerenciar seu CNPJ.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
