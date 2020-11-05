@@ -18,6 +18,6 @@ page_sections:
 - template: signup-bar
   block: cta-bar
   email_recipient: forestry@hugopenna.com
-  content: ''
+  content: Inscreva-se agora &gt;&gt;&gt;
 
 ---
