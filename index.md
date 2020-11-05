@@ -79,5 +79,14 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/2020/11/05/undraw_informed_decision_p2lh.svg"
+    alt_text: ''
+  headline: As melhores dicas para abrir e gerenciar a sua PJ!
+  slug: PJ101
+  content: Tenha segurança para abrir e gerenciar seu CNPJ.
 
 ---
