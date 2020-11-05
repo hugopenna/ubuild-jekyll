@@ -32,8 +32,8 @@ fields:
   - type: text
     name: button_text
     label: Button Text
-- name: email_field
+- name: email_recipient
   type: text
   config:
     required: false
-  label: Email field
+  label: Email Recipient
