@@ -20,6 +20,7 @@ page_sections:
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
+  email_recipient: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -43,7 +44,7 @@ page_sections:
     url: "/news"
     button_text: Inscreva-se
   image:
-    image: "/uploads/2020/11/05/undraw_reviewed_docs_re_9lmr.svg"
+    image: "/uploads/2020/11/05/entrepreneurs.svg"
     alt_text: Product Shot
   background_image: ''
 - template: content-feature
