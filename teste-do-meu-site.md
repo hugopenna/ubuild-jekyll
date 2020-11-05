@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: 'Teste do meu site '
+title: Teste
 date: 2020-11-05 01:00:00 -0200
 page_sections:
 - template: simple-header
